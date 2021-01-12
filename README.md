@@ -1,4 +1,4 @@
-# Do commonly administered drugs inadvertently modify the progression of spinal cord injury? A systematic review 
+## Do commonly administered drugs inadvertently modify the progression of spinal cord injury? A systematic review 
 
 
 Nearly every individual sustaining a traumatic spinal cord injury receives multiple types and classes of drugs to manage a wide range of secondary complications associated with the neurotrauma. These range from drugs to manage blood pressure, to analgesics for concomitant traumatic injuries, to anticholinergics for spasms. A recent study showed the patients receive up to XX unique drugs within the first two months, often in combinatorial fashion. Despite the extreme polypharmacy, little is known to what degree common drugs used in the management of acute spinal cord injury have downstream, unintended, beneficial or detrimental, effects on neurological and functional outcomes. 

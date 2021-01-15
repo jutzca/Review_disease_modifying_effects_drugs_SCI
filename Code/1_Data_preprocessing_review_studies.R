@@ -49,6 +49,9 @@ rm(list = ls())
 outdir_figures='/Users/jutzelec/Documents/GitHub/Review_disease_modifying_effects_drugs_SCI/Figures/'    #replace with your output directory paths for Figures
 outdir_tables='/Users/jutzelec/Documents/GitHub/Review_disease_modifying_effects_drugs_SCI/Tables/'      #replace with your output directory paths for Tables
 
+###Session Info
+sessionInfo()
+
 
 #### -------------------------------------------------------------------------- CODE START ------------------------------------------------------------------------------------------------####
 

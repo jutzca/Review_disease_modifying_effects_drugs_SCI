@@ -10,13 +10,13 @@ To address the question of whether drugs administered in the acute phase of inju
 
 
 ## External resources
-
 * **Link to paper:** [Bourguignon et al, 2021 (Preprint)](https://www.google.com/)
 
 * **Link to web application:** [Neurosurveillance Platform](https://jutzelec.shinyapps.io/neurosurveillance/)
 
-* **Data Source:** [Sygen](https://www.emsci.org/)
-
+**Data Sources:**
+* [SCIRehab Study](https://www.icpsr.umich.edu/web/ADDEP/studies/36724)
+* [Sygen Trial](https://journals.lww.com/spinejournal/Fulltext/2001/12151/The_Sygen__Multicenter_Acute_Spinal_Cord_Injury.15.aspx)
 
 ## Contact
 Questions or comments related to the manuscript:

@@ -8,15 +8,21 @@ Nearly every individual sustaining a traumatic spinal cord injury receives multi
 This is surprising in light of the fact that many drugs are: 1) spinal cord blood barrier (SCBB) permeable and/or gain access to the central nervous system via a leaky SCBB after injury, 2) act on targets in the central nervous system, and 3) administered during the window of opportunity to promote neural repair and plasticity (i.e., in the initial hours to weeks post injury).
 To address the question of whether drugs administered in the acute phase of injury have the potential to modify neurological recovery, we conducted a comprehensive systematic review of preclinical and clinical studies.
 
-### Funding 
-This study was funded by research grants from the [Swiss National Science Foundation](http://p3.snf.ch/project-186101)(Ambizione Grant #PZ00P3_186101, Jutzeler) and [Wings for Life Research Foundation](https://www.wingsforlife.com/de/forschung/) (#2017_044, Jutzeler and Kramer). 
+
+## External resources
+
+* **Link to paper:** [Bourguignon et al, 2021 (Preprint)](https://www.google.com/)
+
+* **Link to web application:** [Neurosurveillance Platform](https://jutzelec.shinyapps.io/neurosurveillance/)
+
+* **Data Source:** [Sygen](https://www.emsci.org/)
 
 
 ## Contact
 Questions or comments related to the manuscript:
 * [Lucie Bourguignon](mailto:lucie.Bourguignon@bsse.ethz.ch?subject=[GitHub]%20Source%20Han%20Sans)
 * [Dr. Catherine Jutzeler](mailto:catherine.jutzeler@bsse.ethz.ch?subject=[GitHub]%20Source%20Han%20Sans)
-* [Prof. Armin Curt](mailto:armin.curt@balgrist.ch?subject=[GitHub]%20Source%20Han%20Sans)
+
 
 This repository is maintained by:
 * [Lucie Bourguignon](https://github.com/lbourguignon)

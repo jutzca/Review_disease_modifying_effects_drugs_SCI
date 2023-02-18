@@ -1,7 +1,7 @@
 ## Do commonly administered drugs inadvertently modify the progression of spinal cord injury? A systematic review 
 
 ### Authors
-Lucie Bourguigno, Bobo Tong, Adam R. Ferguson, Brian K. Kwon, Frank Bradke, Jacquelyn J. Cragg, Lukas Grassner, John L.K. Kramer, Catherine R. Jutzeler
+Lucie Bourguignon, Louis P. Lukas, Bobo Tong, John L.K. Kramer, Matthias Walter, Catherine R. Jutzeler
 
 ### Summary
 Nearly every individual sustaining a traumatic spinal cord injury receives multiple types and classes of drugs to manage a wide range of secondary complications associated with the neurotrauma. These range from drugs to manage blood pressure, to analgesics for concomitant traumatic injuries, to anticholinergics for spasms. A recent study showed the patients receive up to XX unique drugs within the first two months, often in combinatorial fashion. Despite the extreme polypharmacy, little is known to what degree common drugs used in the management of acute spinal cord injury have downstream, unintended, beneficial or detrimental, effects on neurological and functional outcomes. 
@@ -10,20 +10,22 @@ To address the question of whether drugs administered in the acute phase of inju
 
 
 ## External resources
-* **Link to paper:** [Bourguignon et al, 2021 (Preprint)](https://www.google.com/)
+* **Link to paper:** [Bourguignon et al, 2023 (Preprint)](https://www.google.com/)
 
 * **Link to web application:** [Neurosurveillance Platform](https://jutzelec.shinyapps.io/neurosurveillance/)
 
 ## Contact
 Questions or comments related to the manuscript:
-* [Lucie Bourguignon](mailto:lucie.Bourguignon@bsse.ethz.ch?subject=[GitHub]%20Source%20Han%20Sans)
-* [Dr. Catherine Jutzeler](mailto:catherine.jutzeler@bsse.ethz.ch?subject=[GitHub]%20Source%20Han%20Sans)
+* [Lucie Bourguignon](mailto:lucie.bourguignon@hest.ethz.ch?subject=[GitHub]%20Source%20Han%20Sans)
+* [Louis P. Lukas](mailto:louis.lukas@hest.ethz.ch?subject=[GitHub]%20Source%20Han%20Sans)
+* [Prof. Dr. Catherine Jutzeler](mailto:catherine.jutzeler@hest.ethz.ch?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 This repository is maintained by:
 * [Lucie Bourguignon](https://github.com/lbourguignon)
-* [Dr. Catherine Jutzeler](https://github.com/jutzca)
+* [Louis P. Lukas](https://github.com/loupl)
+* [Prof. Dr. Catherine Jutzeler](https://github.com/jutzca)
 
 ## Funding
 
-This study was funded by research grants from the [Swiss National Science Foundation](http://p3.snf.ch/project-186101)(Ambizione Grant #PZ00P3_186101, Jutzeler), [Wings for Life Research Foundation](https://www.wingsforlife.com/de/forschung/) (#2017_044, Jutzeler and Kramer), and the [Craig H. Neilsen Foundation](https://chnfoundation.org/)(Cragg, Jutzeler). 
+This study was funded by research grants from the [Swiss National Science Foundation](http://p3.snf.ch/project-186101)(Ambizione Grant #PZ00P3_186101, Jutzeler), [Wings for Life Research Foundation](https://www.wingsforlife.com/de/forschung/) (#2017_044, Jutzeler and Kramer), and the [Craig H. Neilsen Foundation](https://chnfoundation.org/)(Jutzeler). 
